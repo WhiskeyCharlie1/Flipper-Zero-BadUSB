@@ -42,7 +42,7 @@ $VideoPlayer = $Window.FindName("VideoPlayer")
 
  
 #Video Default Setting
-$VideoPlayer.Volume = 100;
+$VideoPlayer.Volume = 25;
 $VideoPlayer.Source = $VideoSource;
 #$VideoPlayer.Padding = new Thickness(5);
 
